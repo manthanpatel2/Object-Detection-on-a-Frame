@@ -173,7 +173,7 @@ These are some results we got for the same image with different threshold parame
 
 | Accuracy Thresholdvalue | Accuracy | Number of objects: |
 | --- | --- | --- |
-| 60% (0.6)               | 98.96%   |
+| 60% (0.6) | 98.96% | 7 |
 | 40% (0.4) | 97.01% | 8 |
 | 90% (0.9) | 99.27% | 4 |
 
